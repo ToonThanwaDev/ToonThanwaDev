@@ -1,20 +1,17 @@
 ## Hi I'm Thanwa can call me "Toon", Welcome to my GitHub proflie 👋🏻🙏🏻
 
-🙋🏻‍♂️ สวัสดีครับ ผม ธันวา ธันวาภักดี หรือ ตูน มีความสนใจทางด้านการเขียนโปรแกรมเมื่อไม่กี่เดือนก่อน ถึงแม้ว่าจะเรียนจบมาไม่ตรงสาย แต่พร้อมที่จะเรียนรู้และหาโอกาสที่จะได้ทำงานในอาชีพ Programmer 🥰 <br>
-    <br>Hi, I'm Thanwa Thanwaphakdee or Toon, I'm interested in programming a few months ago. Even though I didn't graduate from Computer Science or related subject,
-    but I'm ready to learn and find opportunities to work in Programmer career.👨🏻‍💻
+🙋🏻‍♂️ สวัสดีครับ ผม ธันวา ธันวาภักดี หรือ ตูน มีความสนใจทางด้านการเขียนโปรแกรมและพึ่งจบมาจากการเข้า Bootcamp ที่ Software Park Codecamp Thailand #13 ถึงแม้ว่าจะเรียนจบมาไม่ตรงสาย แต่พร้อมที่จะเรียนรู้และหาโอกาสที่จะได้ทำงานในอาชีพ Programmer 🥰 <br>
+    <br>Hello, My name is Thanwa Thanwaphakdee, also known as Toon. I'm interested in programming and recently graduated from Bootcamp at Software Park Codecamp Thailand #13. But eager to learn and find work as a programmer.👨🏻‍💻
+    
+📫 How to reach me **toon.thanwa@hotmail.com**
+
+📄 Know about my experiences [https://drive.google.com/file/d/15GOIbiSChqTsykyZJV--RyPrZIb8jgg5/view?usp=share_link](https://drive.google.com/file/d/15GOIbiSChqTsykyZJV--RyPrZIb8jgg5/view?usp=share_link)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-📚 I’m currently learning HTML, CSS, JavaScript, Python, Node.js, MongoDB <br>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" />
+📚 I have learned Node.js, Express.js, MySQL, React.js, JavaScript, CSS, HTML, Sequelize, Cloudinary, Multer, Git, Tailwind <br>
     
-👀 I’m interested in Back-end Developer, Python Developer <br>
+👀 I’m interested in Back-end Developer or Full-Stack Developer <br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
